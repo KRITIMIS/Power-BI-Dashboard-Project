@@ -1,3 +1,4 @@
+# Power-BI-Dashboard-Project
 Project Description:
 The HR Data Analytics on Job Attrition Power BI Dashboard is a focused and strategic business intelligence solution designed to analyze and address the issue of job attrition within a company. This project involves the development of an interactive Power BI dashboard that empowers HR professionals and leadership to gain insights into the factors influencing employee attrition and to implement targeted retention strategies.
 
@@ -39,4 +40,4 @@ The HR Data Analytics on Job Attrition Power BI Dashboard project aims to provid
 
 
 
-# Power-BI-Dashboard-Project
+
