@@ -4,29 +4,29 @@ The HR Data Analytics on Job Attrition Power BI Dashboard is a focused and strat
 
 Key Objectives:
 
-Data Collection and Integration: Gather relevant data from HRIS, payroll systems, employee surveys, performance records, and exit interviews. Integrate the data into a cohesive dataset while ensuring data quality and accuracy.
+1.Data Collection and Integration: Gather relevant data from HRIS, payroll systems, employee surveys, performance records, and exit interviews. Integrate the data into a cohesive dataset while ensuring data quality and accuracy.
 
-Dashboard Design: Create a user-friendly and visually appealing Power BI dashboard with a clear layout. Utilize appropriate visualizations, such as bar charts, line graphs, pie charts, and tables, to represent attrition-related data.
+2.Dashboard Design: Create a user-friendly and visually appealing Power BI dashboard with a clear layout. Utilize appropriate visualizations, such as bar charts, line graphs, pie charts, and tables, to represent attrition-related data.
 
-Attrition Analysis: Provide an overview of overall attrition rates, including voluntary and involuntary separations. Segment attrition data by departments, job roles, tenure, age groups, and other relevant categories.
+3.Attrition Analysis: Provide an overview of overall attrition rates, including voluntary and involuntary separations. Segment attrition data by departments, job roles, tenure, age groups, and other relevant categories.
 
-Attrition Drivers: Identify and visualize the key factors influencing attrition, such as compensation, career growth, work-life balance, job satisfaction, and management effectiveness. Use charts and heatmaps to show correlations between these factors and attrition rates.
+4.Attrition Drivers: Identify and visualize the key factors influencing attrition, such as compensation, career growth, work-life balance, job satisfaction, and management effectiveness. Use charts and heatmaps to show correlations between these factors and attrition rates.
 
-Exit Interview Insights: Integrate insights from exit interviews, highlighting common reasons cited by departing employees. Use sentiment analysis to understand the sentiments expressed during exit interviews.
+5.Exit Interview Insights: Integrate insights from exit interviews, highlighting common reasons cited by departing employees. Use sentiment analysis to understand the sentiments expressed during exit interviews.
 
-Tenure Analysis: Visualize attrition trends based on employee tenure. Identify if there are specific periods during which attrition rates tend to be higher, which could indicate potential issues.
+6.Tenure Analysis: Visualize attrition trends based on employee tenure. Identify if there are specific periods during which attrition rates tend to be higher, which could indicate potential issues.
 
-Demographic Analysis: Analyze attrition rates across demographic groups, including age, gender, ethnicity, and education level. Identify if any specific group is disproportionately affected by attrition.
+7.Demographic Analysis: Analyze attrition rates across demographic groups, including age, gender, ethnicity, and education level. Identify if any specific group is disproportionately affected by attrition.
 
-Retention Strategies: Present potential retention strategies and their potential impact based on data analysis. These strategies could include targeted training, career development programs, compensation adjustments, and more.
+8.Retention Strategies: Present potential retention strategies and their potential impact based on data analysis. These strategies could include targeted training, career development programs, compensation adjustments, and more.
 
-Comparative Analysis: Compare the company's attrition rates with industry benchmarks to assess the organization's attrition performance in context.
+9.Comparative Analysis: Compare the company's attrition rates with industry benchmarks to assess the organization's attrition performance in context.
 
-Predictive Modeling (Optional): Incorporate predictive models to forecast attrition rates based on historical data and identified factors. This can help HR teams proactively plan retention initiatives.
+10.Predictive Modeling (Optional): Incorporate predictive models to forecast attrition rates based on historical data and identified factors. This can help HR teams proactively plan retention initiatives.
 
-Interactive Features: Include interactive features like slicers and filters to allow users to explore attrition data based on various dimensions, such as time period, department, and job role.
+11.Interactive Features: Include interactive features like slicers and filters to allow users to explore attrition data based on various dimensions, such as time period, department, and job role.
 
-Security and Compliance: Ensure that the dashboard complies with data privacy regulations and restricts access to authorized users.
+12.Security and Compliance: Ensure that the dashboard complies with data privacy regulations and restricts access to authorized users.
 
 Benefits:
 
